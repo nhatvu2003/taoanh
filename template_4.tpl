@@ -6,15 +6,15 @@
       <span>{{slogan}}</span>
     </div>
     <div class="info-grid">
-      <div>Giá: {{price}}</div>
-      <div>Ingame: {{ingame}}</div>
-      <div>Tướng: {{champion}}</div>
-      <div>Trang phục: {{skin}}</div>
-      <div>Hạng hiện tại: {{currentRank}}</div>
-      <div>Hạng cao nhất: {{highestRank}}</div>
-      <div>Tinh hoa lam: {{blueEssence}}</div>
-      <div>Tinh hoa vàng: {{yellowEssence}}</div>
-      <div>Will Core: {{willCore}}</div>
+      <div>Giá: {{formData.price}}</div>
+      <div>Ingame: {{formData.ingame}}</div>
+      <div>Tướng: {{formData.champion}}</div>
+      <div>Trang phục: {{formData.skin}}</div>
+      <div>Hạng hiện tại: {{formData.currentRank}}</div>
+      <div>Hạng cao nhất: {{formData.highestRank}}</div>
+      <div>Tinh hoa lam: {{formData.blueEssence}}</div>
+      <div>Tinh hoa vàng: {{formData.yellowEssence}}</div>
+      <div>Will Core: {{formData.willCore}}</div>
     </div>
   </div>
   <div class="skins-champions-grid">
