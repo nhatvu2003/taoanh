@@ -1,7 +1,7 @@
 
   <style>
     body {
-      background: #181c2a;
+      background: url('{{backgroundPhoto}}');
       color: #fff;
       font-family: 'Segoe UI', Arial, sans-serif;
       margin: 0;
