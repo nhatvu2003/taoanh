@@ -283,10 +283,10 @@
         </div>
         <section id="game-screenshots" class="game-screenshots">
             <div class="screenshot" id="{{screenshot1}}">
-                <img src="{{screenshot1}}" alt="Screenshot">
+                <img src="{{screenShot1}}" alt="Screenshot">
             </div>
             <div class="screenshot" id="{{screenshot2}}">
-                <img src="{{screenshot2}}" alt="Screenshot">
+                <img src="{{screenShot2}}" alt="Screenshot">
             </div>
 
         </section>
