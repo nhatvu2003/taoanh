@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <style>
         :root {
             --primary-color: #ff4500;
@@ -293,5 +289,4 @@
     <footer class="shop-footer">
         <div class="shop-motto">Chúng tôi cam kết chất lượng và uy tín!</div>
     </footer>
-</body>
-</html>
+
