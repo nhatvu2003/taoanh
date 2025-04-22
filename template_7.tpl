@@ -242,8 +242,6 @@
             .grid-container {grid-template-columns: repeat(5, 1fr);}
         }
     </style>
-</head>
-<body>
     <header id="shop-header" class="shop-header">
         <div class="logo-container">
             <h1 class="shop-name">DUYLAMSTORE</h1>
