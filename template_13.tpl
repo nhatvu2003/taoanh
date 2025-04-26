@@ -246,7 +246,7 @@
 
     <header id="shop-header" class="shop-header">
         <div class="logo-container">
-            <h1 class="shop-name">{{name}}</h1>
+            <h1 class="shop-name">{{ingame}}</h1>
             <h2 class="shop-slogan">{{slogan}}</h2>
         </div>
     </header>
